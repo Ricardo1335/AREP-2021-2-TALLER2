@@ -30,12 +30,13 @@ Escriba un servidor web que soporte múlltiples solicitudes seguidas (no concurr
 ## Heroku
 
 
-https://arep-2021-2-taller2.herokuapp.com
+[Heroku](https://arep-2021-2-taller2.herokuapp.com) - Build to Heroku
 
 ## Construido con
 
-* [Java] (https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-* [Maven] (https://maven.apache.org/)
+
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [Java](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - Programing languaje 
 
 ## Licencia
 

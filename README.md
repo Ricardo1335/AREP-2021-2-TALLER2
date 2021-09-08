@@ -6,18 +6,23 @@
 Escriba un servidor web que soporte múlltiples solicitudes seguidas (no concurrentes). El servidor debe retornar todos los archivos solicitados, incluyendo páginas html e imágenes. Construya un sitio web con javascript para probar su servidor. Despliegue su solución en Heroku. NO use frameworks web como Spark o Spring use solo Java y las librerías para manejo de la red.
 
 
-###Funcionamiento: 
-Pagina pincial
+# Funcionamiento: 
+
+
+
+## Pagina pincial
 
 ![img/img1.png](img/img1.png)
 
-Archivos tipo HTML
+
+
+## HTML
 
 ![img/img4.png](img/img4.png)
+ 
 
 
-
-Archivos tipo PNG
+## PNG
 
 ![img/img2.png](img/img2.png)
 

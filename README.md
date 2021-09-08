@@ -1,7 +1,7 @@
-# Taller 03 
-### Juan Sebastian Garcia Hincapie 
 
-## RETO 1
+# Ricardo Amaya Rivera
+
+# RETO 1
 
 Escriba un servidor web que soporte múlltiples solicitudes seguidas (no concurrentes). El servidor debe retornar todos los archivos solicitados, incluyendo páginas html e imágenes. Construya un sitio web con javascript para probar su servidor. Despliegue su solución en Heroku. NO use frameworks web como Spark o Spring use solo Java y las librerías para manejo de la red.
 
@@ -17,15 +17,10 @@ Archivos tipo HTML
 
 
 
-Archivos tipo JPG y  PNG
+Archivos tipo PNG
 
 ![img/img2.png](img/img2.png)
-![img/img3.png](img/img3.png)
 
-
-Archivos tipo JS
-
-![img/img5.png](img/img5.png)
 
 ## Heroku
 

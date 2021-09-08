@@ -29,7 +29,8 @@ Escriba un servidor web que soporte múlltiples solicitudes seguidas (no concurr
 
 ## Heroku
 
-https://arep-reto1.herokuapp.com
+
+https://arep-2021-2-taller2.herokuapp.com
 
 ## Construido con
 
